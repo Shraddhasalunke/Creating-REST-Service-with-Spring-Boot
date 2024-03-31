@@ -30,8 +30,3 @@ Useful Links
     Twitter : https://twitter.com/in28Minutes​
     YouTube : https://www.youtube.com/rithustutorials​
     Instagram : https://www.instagram.com/in28minutes/
-
-in28Minutes is creating amazing solutions for you to learn Spring Boot, Full Stack and the Cloud - Docker, Kubernetes, AWS, React, Angular etc. - Check out all our courses here
-Youtube Playlists - 500+ Videos
-
-Click here - 30+ Playlists with 500+ Videos on Spring, Spring Boot, REST, Microservices and the Cloud
