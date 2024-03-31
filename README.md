@@ -1,21 +1,5 @@
 # Creating-REST-Service-with-Spring-Boot
 Spring Boot Code Examples
-
-All code examples for our website http://www.springboottutorial.com
-Keep Learning Every Day
-
-    1: FOLLOW Ranga on LinkedIn
-
-Check Out Our Amazing ROADMAPS
-
-    1: AWS Roadmap
-    2: Azure Roadmap
-    3: Google Cloud Roadmap
-    4: Cloud Beginner Roadmap
-    5: DevOps Roadmap
-    6: Java Full Stack Roadmap
-    7: Java Microservices Roadmap
-
 Image
 Installing Eclipse & Embedded Maven
 
